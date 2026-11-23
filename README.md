@@ -66,6 +66,7 @@ metrics and deployment. Every project here is public, reproducible and measured.
 
 <div align="center">
 
+<a href="https://joecodeai.github.io"><img src="https://img.shields.io/badge/Portfolio-joecodeai.github.io-ff4f1f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0c0a1f" alt="Portfolio: joecodeai.github.io" /></a>
 <a href="https://www.linkedin.com/in/joel-thomas-v/"><img src="https://img.shields.io/badge/LinkedIn-joel--thomas--v-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0c0a1f" alt="LinkedIn: joel-thomas-v" /></a>
 <a href="https://github.com/joecodeai?tab=repositories"><img src="https://img.shields.io/badge/GitHub-joecodeai-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0c0a1f" alt="GitHub repositories" /></a>
 <a href="https://huggingface.co/joecodeai"><img src="https://img.shields.io/badge/Hugging_Face-joecodeai-22d3ee?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0c0a1f" alt="Hugging Face: joecodeai" /></a>
@@ -73,7 +74,6 @@ metrics and deployment. Every project here is public, reproducible and measured.
 <!--
   Add more links here when they exist. Same badge style:
   Email:     <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-say_hello-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0c0a1f" alt="Email" /></a>
-  Portfolio: <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-visit-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0c0a1f" alt="Portfolio" /></a>
   X:         <a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-YOUR_HANDLE-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0c0a1f" alt="X" /></a>
   Instagram: <a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-YOUR_HANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0c0a1f" alt="Instagram" /></a>
 -->
